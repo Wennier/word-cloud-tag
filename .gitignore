@@ -1,0 +1,11 @@
+node_modules
+dist/
+lib/
+docs/
+coverage/
+reports/
+ssl/
+dwt-*
+package-lock.json
+*.tgz
+.mutation
